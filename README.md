@@ -10,7 +10,7 @@ You can also find [all datasets on Kaggle](https://www.kaggle.com/datasets/vinam
 2. Fossil-fuel (coal, oil and natural gas) rents: [FOSSIL_FUEL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/FOSSIL_FUEL_RENTS.csv)
 3. Coal rents: [COAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/COAL_RENTS.csv)
 4. Oil rents: [OIL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/OIL_RENTS.csv)
-5. Natural gas rents: [NATGAS_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/NATGAS_RENTS.csv)
+5. Natural gas rents: [NATURAL_GAS_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/NATURAL_GAS_RENTS.csv)
 6. Non-fossil fuel mineral rents: [NON_FOSSIL_FUEL_MINERALS_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/NON_FOSSIL_FUEL_MINERALS_RENTS.csv)
 7. Forest rents: [FOREST_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/FOREST_RENTS.csv)
 8. Mineral (coal, oil, natural gas and non-fossil fuel minerals) rents: [MINERAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/MINERAL_RENTS.csv)
