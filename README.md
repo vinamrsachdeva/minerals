@@ -1,6 +1,6 @@
 # natres
 
-This repository contains data relevant to India's annual natural resource (coal, "minerals", oil, natural gas, forest) rents from 1971 to 2021 curated and estimated using several World Bank datasets. To understand how I estimated all values in the dataset, you can look at [this Google sheet](https://docs.google.com/spreadsheets/d/1-Mwd9Yjtlltwksodfiiu61RiXPQXot29MHr7BBSr_Hk/).
+This repository contains data relevant to India's annual natural resource (coal, "minerals", oil, natural gas, forest) rents from 1971 to 2021 curated and estimated using several World Bank datasets. To understand how I estimated all values in the dataset, you can look at [this spreadsheet](https://docs.google.com/spreadsheets/d/1-Mwd9Yjtlltwksodfiiu61RiXPQXot29MHr7BBSr_Hk/).
 
 {Forest to be added}
 
