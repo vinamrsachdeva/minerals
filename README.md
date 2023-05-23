@@ -1,4 +1,4 @@
-# minerals
+# natres
 
 This repository contains data relevant to India's annual natural resource (coal, "minerals", oil, natural gas, forest) rents from 1971 to 2021 curated and estimated using several World Bank datasets.
 
