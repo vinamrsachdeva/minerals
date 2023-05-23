@@ -2,6 +2,8 @@
 
 This repository contains data relevant to India's annual natural resource (coal, "minerals", oil, natural gas, forest) rents from 1971 to 2021 taken curated and estimated using several World Bank datasets.
 
+{Forest to be added}
+
 ## Datasets
 
 1. Coal rents: [COAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/COAL_RENTS.csv)
