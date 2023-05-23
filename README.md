@@ -27,6 +27,6 @@ This repository contains data relevant to India's annual natural resource (coal,
 7. Population: [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN)
 8. Inflation, consumer prices (annual %): [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN)
 
-World Bank on the sources they used to estimate the rents in their report, "[The Changing Wealth of Nations 2021: Managing Assets for the Future](http://hdl.handle.net/10986/36400)":
+World Bank on the sources they used to estimate the rents in their report, "[The Changing Wealth of Nations 2021: Managing Assets for the Future](http://hdl.handle.net/10986/36400)" (TABLE A.6 contains the revelant text):
 
 ![World Bank Sources](https://github.com/vinamrsachdeva/minerals/blob/main/wb_sources.png)
