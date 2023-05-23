@@ -6,7 +6,7 @@
 2. Mineral rents: [MINERAL_RENTS.csv](https://github.com/vinamrsachdeva/minerals/blob/main/datasets/MINERAL_RENTS.csv)
 3. Oil rents: [OIL_RENTS.csv](https://github.com/vinamrsachdeva/minerals/blob/main/datasets/OIL_RENTS.csv)
 4. Natural gas rents: [NATGAS_RENTS.csv](https://github.com/vinamrsachdeva/minerals/blob/main/datasets/NATGAS_RENTS.csv)
-5. Total mineral rents (coal, "minerals", oil, natural gas): [TOTAL_MINERAL_RENTS](https://github.com/vinamrsachdeva/minerals/blob/main/datasets/TOTAL_MINERAL_RENTS.csv)
+5. Total mineral rents (coal, "minerals", oil, natural gas): [TOTAL_MINERAL_RENTS.csv](https://github.com/vinamrsachdeva/minerals/blob/main/datasets/TOTAL_MINERAL_RENTS.csv)
 
 ## Definitions
 *Rent* here refers to resource rent, which is sale price minus costs (including a "reasonable" return on capital invested).
