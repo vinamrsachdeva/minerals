@@ -2,8 +2,6 @@
 
 This repository contains data relevant to India's annual natural resource (coal, oil, natural gas, non-fossil fuel minerals and forest resources) [rents](https://github.com/vinamrsachdeva/natres#rent-or-resource-rent) from 1971 to 2021 curated and estimated using several World Bank datasets. To understand how I estimated all values in the dataset, you can look at [this spreadsheet](https://docs.google.com/spreadsheets/d/1-Mwd9Yjtlltwksodfiiu61RiXPQXot29MHr7BBSr_Hk/).
 
-{Forest to be added}
-
 ## Datasets
 
 1. Total natural resource rents: [TOTAL_NATURAL_RESOURCE_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/TOTAL_NATURAL_RESOURCE_RENTS.csv)
