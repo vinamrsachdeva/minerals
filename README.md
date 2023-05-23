@@ -1,6 +1,6 @@
 # natres
 
-This repository contains data relevant to India's annual natural resource (coal, "minerals", oil, natural gas, forest) rents from 1971 to 2021 curated and estimated using several World Bank datasets. To understand how I estimated all values in the dataset, you can look at [this spreadsheet](https://docs.google.com/spreadsheets/d/1-Mwd9Yjtlltwksodfiiu61RiXPQXot29MHr7BBSr_Hk/).
+This repository contains data relevant to India's annual natural resource (coal, "minerals", oil, natural gas, forest) [rents]( from 1971 to 2021 curated and estimated using several World Bank datasets. To understand how I estimated all values in the dataset, you can look at [this spreadsheet](https://docs.google.com/spreadsheets/d/1-Mwd9Yjtlltwksodfiiu61RiXPQXot29MHr7BBSr_Hk/).
 
 {Forest to be added}
 
@@ -13,9 +13,11 @@ This repository contains data relevant to India's annual natural resource (coal,
 5. Total mineral rents (coal, "minerals", oil, natural gas): [TOTAL_MINERAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/TOTAL_MINERAL_RENTS.csv)
 
 ## Definitions
-*Rent or Resource rent*": sale price minus costs (including a "reasonable" return on capital invested).
+#### Rent or Resource rent
+Sale price minus costs (provided costs include a "reasonable" return on capital invested).
 
-*Mineral rent*: the resource rents from mining copper, gold, iron ore, lead, nickle, silve, and zinc according to World Bank's "[The Changing Wealth of Nations 2021: Managing Assets for the Future](http://hdl.handle.net/10986/36400)" report but resource rents from mining tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate according to [the page on their website](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?end=2021&locations=IN&start=1970&view=chart) where the data has been taken from. Hence, [MINERAL_RENTS](https://github.com/vinamrsachdeva/natres/blob/main/datasets/MINERAL_RENTS.csv) is the only dataset where there is some confusion; for the rest, World Bank's publications are consistent.
+#### Mineral rent
+The resource rents from mining copper, gold, iron ore, lead, nickle, silve, and zinc according to World Bank's "[The Changing Wealth of Nations 2021: Managing Assets for the Future](http://hdl.handle.net/10986/36400)" report but resource rents from mining tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate according to [the page on their website](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?end=2021&locations=IN&start=1970&view=chart) where the data has been taken from. Hence, [MINERAL_RENTS](https://github.com/vinamrsachdeva/natres/blob/main/datasets/MINERAL_RENTS.csv) is the only dataset where there is some confusion; for the rest, World Bank's publications are consistent.
 
 ## Sources
 1. Coal rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.COAL.RT.ZS?locations=IN)
