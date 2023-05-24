@@ -29,7 +29,7 @@ Some sample visualizations of the data in all datasets have been included in [th
 2. Coal rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.COAL.RT.ZS?locations=IN)
 3. Oil rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.PETR.RT.ZS?locations=IN)
 4. Natural gas rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.NGAS.RT.ZS?locations=IN)
-5. MINERAL rents rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?locations=IN)
+5. Mineral rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?locations=IN)
 6. Forest rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.FRST.RT.ZS?locations=IN)
 7. GDP (current USD): [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IN)
 8. Official exchange rate (INR per USD): [World Bank](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN)
