@@ -21,6 +21,9 @@ Sale price minus costs (provided costs include a "reasonable" return on capital 
 #### Mineral rents
 The [resource rents](https://github.com/vinamrsachdeva/natres#rent-or-resource-rent) from mining copper, gold, iron ore, lead, nickle, silve, and zinc according to World Bank's "[The Changing Wealth of Nations 2021: Managing Assets for the Future](http://hdl.handle.net/10986/36400)" report but resource rents from mining tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate according to [the page on their website](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?locations=IN) where the data has been taken from. Hence, [MINERAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/MINERAL_RENTS.csv) is the only dataset where there is some confusion; for the rest, World Bank's publications are consistent.
 
+## Sample visualizations
+Some sample visualizations of the data in all datasets have been included in [this Kaggle notebook](https://www.kaggle.com/code/vinamrsachdeva/natres-demo-visualizations#Current-INR-per-capita) which you can also download from this repository [here](https://github.com/vinamrsachdeva/natres/blob/main/natres-demo-visualizations.ipynb).
+
 ## Sources
 1. Total natural resource rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.TOTL.RT.ZS?locations=IN)
 2. Coal rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.COAL.RT.ZS?locations=IN)
