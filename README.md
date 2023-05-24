@@ -1,6 +1,6 @@
 # natres
 
-This repository contains data relevant to India's annual natural resource (coal, oil, natural gas, non-fossil fuel minerals and forest resources) [rents](https://github.com/vinamrsachdeva/natres#rent-or-resource-rent) from 1971 to 2021 curated and estimated using several World Bank datasets. To understand how I estimated all values in the dataset, you can look at [this spreadsheet](https://docs.google.com/spreadsheets/d/1-Mwd9Yjtlltwksodfiiu61RiXPQXot29MHr7BBSr_Hk/).
+This repository contains data relevant to India's annual natural resource (coal, oil, natural gas, minerals and forests) [rents](https://github.com/vinamrsachdeva/natres#rent-or-resource-rent) from 1971 to 2021 curated and estimated using several World Bank datasets. To understand how I estimated all values in the dataset, you can look at [this spreadsheet](https://docs.google.com/spreadsheets/d/1-Mwd9Yjtlltwksodfiiu61RiXPQXot29MHr7BBSr_Hk/).
 
 You can also find [all datasets on Kaggle](https://www.kaggle.com/datasets/vinamrsachdeva/natres).
 
@@ -11,23 +11,22 @@ You can also find [all datasets on Kaggle](https://www.kaggle.com/datasets/vinam
 3. Coal rents: [COAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/COAL_RENTS.csv)
 4. Oil rents: [OIL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/OIL_RENTS.csv)
 5. Natural gas rents: [NATURAL_GAS_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/NATURAL_GAS_RENTS.csv)
-6. Non-fossil fuel mineral rents: [NON_FOSSIL_FUEL_MINERALS_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/NON_FOSSIL_FUEL_MINERALS_RENTS.csv)
+6. Mineral rents: [MINERAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/MINERAL_RENTS.csv)
 7. Forest rents: [FOREST_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/FOREST_RENTS.csv)
-8. Mineral (coal, oil, natural gas and non-fossil fuel minerals) rents: [MINERAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/MINERAL_RENTS.csv)
 
 ## Definitions
 #### Rent or Resource rent
 Sale price minus costs (provided costs include a "reasonable" return on capital invested).
 
-#### Non-fossil fuel minerals rents
-The [resource rents](https://github.com/vinamrsachdeva/natres#rent-or-resource-rent) from mining copper, gold, iron ore, lead, nickle, silve, and zinc according to World Bank's "[The Changing Wealth of Nations 2021: Managing Assets for the Future](http://hdl.handle.net/10986/36400)" report but resource rents from mining tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate according to [the page on their website](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?locations=IN) where the data has been taken from. Hence, [NON_FOSSIL_FUEL_MINERALS_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/NON_FOSSIL_FUEL_MINERALS_RENTS.csv) is the only dataset where there is some confusion; for the rest, World Bank's publications are consistent.
+#### Mineral rents
+The [resource rents](https://github.com/vinamrsachdeva/natres#rent-or-resource-rent) from mining copper, gold, iron ore, lead, nickle, silve, and zinc according to World Bank's "[The Changing Wealth of Nations 2021: Managing Assets for the Future](http://hdl.handle.net/10986/36400)" report but resource rents from mining tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate according to [the page on their website](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?locations=IN) where the data has been taken from. Hence, [MINERAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/MINERAL_RENTS.csv) is the only dataset where there is some confusion; for the rest, World Bank's publications are consistent.
 
 ## Sources
 1. Total natural resource rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.TOTL.RT.ZS?locations=IN)
 2. Coal rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.COAL.RT.ZS?locations=IN)
 3. Oil rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.PETR.RT.ZS?locations=IN)
 4. Natural gas rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.NGAS.RT.ZS?locations=IN)
-5. Non-fossil fuel minerals rents rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?locations=IN)
+5. MINERAL rents rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?locations=IN)
 6. Forest rents (as % of GDP): [World Bank](https://data.worldbank.org/indicator/NY.GDP.FRST.RT.ZS?locations=IN)
 7. GDP (current USD): [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IN)
 8. Official exchange rate (INR per USD): [World Bank](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN)
