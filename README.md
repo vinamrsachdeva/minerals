@@ -16,7 +16,7 @@ You can also find [all datasets on Kaggle](https://www.kaggle.com/datasets/vinam
 
 ## Definitions
 #### Rent or Resource rent
-Sale price minus costs (provided costs include a "reasonable" return on investment for the miner).
+Sale price minus costs (provided costs include a "reasonable" return on capital employed).
 
 #### Mineral rents
 The [resource rents](https://github.com/vinamrsachdeva/natres#rent-or-resource-rent) from mining copper, gold, iron ore, lead, nickle, silve, and zinc according to World Bank's "[The Changing Wealth of Nations 2021: Managing Assets for the Future](http://hdl.handle.net/10986/36400)" report but resource rents from mining tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate according to [the page on their website](https://data.worldbank.org/indicator/NY.GDP.MINR.RT.ZS?locations=IN) where the data has been taken from. Hence, [MINERAL_RENTS.csv](https://github.com/vinamrsachdeva/natres/blob/main/datasets/MINERAL_RENTS.csv) is the only dataset where there is some confusion; for the rest, World Bank's publications are consistent.
