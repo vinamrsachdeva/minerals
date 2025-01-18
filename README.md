@@ -35,7 +35,3 @@ Some sample visualizations of the data in all datasets have been included in [th
 8. Official exchange rate (INR per USD): [World Bank](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN)
 9. Population: [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN)
 10. Inflation, consumer prices (annual %): [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN)
-
-World Bank on the sources they used to estimate the rents in their report, "[The Changing Wealth of Nations 2021: Managing Assets for the Future](http://hdl.handle.net/10986/36400)" (TABLE A.6 contains the revelant text):
-
-![World Bank Sources](https://github.com/vinamrsachdeva/minerals/blob/main/wb_sources.png)
